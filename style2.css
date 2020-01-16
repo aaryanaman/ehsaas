@@ -1,0 +1,24 @@
+.abc{
+    object-fit: cover;
+    border-radius:5rem;
+    
+    border:1px solid blanchedalmond;
+}
+.quote{
+    margin-bottom: 2.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+    background-color: #ffdbc5;
+  
+  }
+  .quotes{
+    padding: 0;
+    border-radius: 3rem;
+    border:0.5px solid #fc7978;
+    
+  }
+  .quotes:hover {
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.2); 
+  }
